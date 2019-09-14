@@ -1,0 +1,15 @@
+{
+  "name": "first_lib",
+  "version": "1.0.0",
+  "description": "this is a test to create a new node_module package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Lucas Barbosa",
+  "license": "MIT"
+}
